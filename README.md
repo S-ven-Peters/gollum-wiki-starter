@@ -10,7 +10,7 @@ for now it will be designed to work with John Gruber's [Markdown](https://daring
 ## dependencies (probably)
 - [gollum](https://github.com/gollum/gollum)
 - [jRuby](https://www.jruby.org/)
-- [python](https://www.python.org/downloads/)
+- [python](https://www.python.org/downloads/) or more Ruby
 
 ## notes for me:
 once the basic starter is complete:
